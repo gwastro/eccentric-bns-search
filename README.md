@@ -4,7 +4,7 @@
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
- <sub>3. Department of Physics and Astronomy, West Virginia University, Morgantown WV 26506, USA
+ <sub>3. Department of Physics and Astronomy, West Virginia University, Morgantown WV 26506, USA</sub>
  <sub>4. Department of Physics, Syracuse University, Syracuse, NY 13244, USA</sub>
 
 ## Introduction ##
