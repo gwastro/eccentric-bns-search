@@ -18,9 +18,6 @@ Details of the analysis are available in this [preprint paper]() and the configu
 
 ## Accessing the Catalog: 1-ECCBNS.hdf ##
 
-There are two datasets within the file, `/complete` and `/bbh`. The `complete` set is the full dataset from our analysis. The `bbh` set includes BBH candidates from a select portion of the analysis. See the 1-OGC paper for additional information. 
-
-
 ```python
 import h5py
 
