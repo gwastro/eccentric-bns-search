@@ -67,10 +67,4 @@ We encourage use of these data in derivative works. If you use the material prov
 
 
 ## Acknowledgments ##
-We thank Nico Yunes and Blake Moore for their assistance and insight. We acknowledge the Max Planck
-Gesellschaft for support and the Atlas cluster computing
-team at AEI Hannover. This research has made use of
-data, software and/or web tools obtained from the Gravitational Wave Open Science Center (https://www.gwopenscience.org), a service of LIGO Laboratory, the
-LIGO Scientific Collaboration and the Virgo Collaboration. LIGO is funded by the U.S. National Science
-Foundation. Virgo is funded by the French Centre National de Recherche Scientifique (CNRS), the Italian Istituto Nazionale della Fisica Nucleare (INFN) and the
-Dutch Nikhef, with contributions by Polish and Hungarian institutes.
+We thank Nico Yunes and Blake Moore for their feedback and guidance using TaylorF2e. DAB thanks National Science Foundation Grant No.~PHY-1707954 for support. AL thanks The Center for Gravitational Waves and Cosmology at West Virginia University, and the Division of Diversity Equity and Inclusion at West Virginia University for support. We acknowledge the Max Planck Gesellschaft for support and the Atlas cluster computing team at AEI Hannover. This research was supported in part by the National Science Foundation under Grant No.~PHY-1748958. This research has made use of data, software and/or web tools obtained from the Gravitational Wave Open Science Center (https://www.gw-openscience.org), a service of LIGO Laboratory, the LIGO Scientific Collaboration and the Virgo Collaboration. LIGO is funded by the U.S. National Science Foundation. Virgo is funded by the French Centre National de Recherche Scientifique (CNRS), the Italian Istituto Nazionale della Fisica Nucleare (INFN) and the Dutch Nikhef, with contributions by Polish and Hungarian institutes.
