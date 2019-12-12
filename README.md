@@ -14,7 +14,7 @@ We present a search for gravitational waves from merging binary neutron stars wh
 The catalog is stored in the file '1-ECCBNS.hdf'. There are a variety of tools to access [hdf files](https://www.hdfgroup.org/) from numerous computing languages. Here we will focus on access through python and [h5py](www.h5py.org).
 
 ## Analysis Details ##
-Details of the analysis are available in this [preprint paper]() and the configuration files needed to create the analysis workflows are provided in the [workflow/configuration](https://github.com/gwastro/eccentric-bns-search/tree/master/workflow/configuration) directory.
+Details of the analysis are available in this [preprint paper](http://arxiv.org/abs/arXiv:1912.05464) and the configuration files needed to create the analysis workflows are provided in the [workflow/configuration](https://github.com/gwastro/eccentric-bns-search/tree/master/workflow/configuration) directory.
 
 ## Accessing the Catalog: 1-ECCBNS.hdf ##
 
@@ -54,14 +54,16 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:2019XXX,
-      author         = "Alexander H. Nitz, Amber Lenon, Duncan A. Brown",
-      title          = "{}",
+@article{,
+      key            = "1770186",
+      author         = "Nitz, Alexander H. and Lenon, Amber and Brown, Duncan A.",
+      title          = "{Search for Eccentric Binary Neutron Star Mergers in the
+                        first and second observing runs of Advanced LIGO}",
       year           = "2019",
-      eprint         = "XXXXXXXXX",
+      eprint         = "1912.05464",
       archivePrefix  = "arXiv",
-      primaryClass   = "gr-qc",
-      SLACcitation   = "%%CITATION = ARXIV:XXXXXXXXX;%%"
+      primaryClass   = "astro-ph.HE",
+      SLACcitation   = "%%CITATION = ARXIV:1912.05464;%%"
 }
 ```
 
